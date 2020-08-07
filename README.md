@@ -1,2 +1,3 @@
-# photo-editor
+# Photo editor
+
 Flutter photo editor package
